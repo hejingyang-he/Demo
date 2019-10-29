@@ -3,13 +3,6 @@
 package com.test;
 
 public class HelloWorld {
-public static void main(String[] args) {
-
-	System.out.println("one commit");
-	System.out.println("dabaojian");
-}
-}
-
 package com.test;
 
 
@@ -45,6 +38,7 @@ public static void main(String[] args) {
 	System.out.println("FanShiWen");
   System.out.println("FanShiWen2");
   System.out.println("MengYinHao");
+   System.out.println("zdx");
   System.out.println("bjf123");
 
   System.out.println("zbj——1");
@@ -59,8 +53,6 @@ public static void main(String[] args) {
 	System.out.println("one commit");
 	System.out.println("write")
   System.out.println("Hello.xb.I am cgm");
-
-
 
 
 }
