@@ -1,10 +1,5 @@
 
-
 package com.test;
-
-public class HelloWorld {
-package com.test;
-
 
 public class HelloWorld {
 public static void main(String[] args) {
@@ -54,8 +49,10 @@ public static void main(String[] args) {
 	System.out.println("write")
   System.out.println("Hello.xb.I am cgm");
 
+	System.out.println("Hello，，，，Branch，，，，，test");
+
+
 
 }
   
 }
-
