@@ -3,7 +3,7 @@ package com.test;
 public class HelloWorld {
 public static void main(String[] args) {
 
-	System.out.println("Hello，，，，Branch，，，，，test");
+	System.out.println("Hello，毒奶粉");
 	
 	}
 }
