@@ -4,6 +4,6 @@ public class HelloWorld {
 public static void main(String[] args) {
 
 	System.out.println("one commit");
-	System.out.println("write1");
+	System.out.println("zhaokun");
 }
 }
