@@ -23,6 +23,7 @@ public static void main(String[] args) {
 	System.out.println("one commit");
 	System.out.println("other");
 
+	System.out.println("ccc");
 	System.out.println("one commit");
 	System.out.println("write");
 
@@ -50,7 +51,6 @@ public static void main(String[] args) {
   System.out.println("Hello.xb.I am cgm");
 
 	System.out.println("Hello，，，，Branch，，，，，test");
-
 
 
 }
